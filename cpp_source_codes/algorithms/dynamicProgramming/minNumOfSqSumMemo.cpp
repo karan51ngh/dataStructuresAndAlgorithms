@@ -62,6 +62,7 @@ void solved()
 	int n;
 	cin >> n;
 	solution S1(n);
+	int ans=S1.sol;
 
-	deb(S1.sol);
+	deb(ans);
 }
