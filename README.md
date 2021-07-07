@@ -1,10 +1,8 @@
 <h1>Data Structures And Algorithms</h1>
 <!-- TABLE OF CONTENTS -->
 <h2>All Important concepts of Data Structures and Algorithms.</h2>
-<br>
-#Languages used : C and C++
-<br>
-#Topics covered:
+<h2>Languages used : C and C++<h2>
+<h2>Topics covered:<h2>
 <br>
 #Algorithms:
 <br>
