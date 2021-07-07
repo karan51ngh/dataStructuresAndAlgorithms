@@ -1,4 +1,4 @@
-# dataStructuresAndAlgorithms
+## dataStructuresAndAlgorithms
 All Important concepts of Data Structures and Algorithms.
 Languages used : C and C++
 Topics covered:
