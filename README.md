@@ -4,19 +4,19 @@
 <h2>Languages used : C and C++<h2>
 <h2>Topics covered:<h2>
 <br>
-#Algorithms:
+<h4>Algorithms:<h4>
 <br>
-    Dynamic Programming:
+    <h5>Dynamic Programming:<h5>
         01knapsack(both naive and optimized approach(tabulation method))
     <br>
-    Greedy Algorithms:
+    <h5>Greedy Algorithms:<h5>
         Fractional Knapsack
     <br>
-    Searching Algorithms:
+   <h5> Searching Algorithms:<h5>
         Bnary Search
         Linear Search
     <br>
-    Sorting Algorithms:
+   <h5> Sorting Algorithms:<h5>
         Bubble Sort
         Merge Dort
 <br>
