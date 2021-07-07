@@ -1,4 +1,4 @@
-dataStructuresAndAlgorithms
+<h1>Data Structures And Algorithms</h1>
 <!-- TABLE OF CONTENTS -->
 #All Important concepts of Data Structures and Algorithms.
 <br>
